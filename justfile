@@ -20,6 +20,9 @@ debug TEST:
 run-tests:
 	cargo test --features "yaml unstable"
 
+install:
+	cargo install --force --path .
+
 nightly:
 	rustup override add nightly
 
