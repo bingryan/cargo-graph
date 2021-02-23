@@ -4,6 +4,11 @@ Linux: [![Build Status](https://travis-ci.org/kbknapp/cargo-graph.svg?branch=mas
 
 A `cargo` subcommand for building GraphViz DOT files of dependency graphs. This subcommand was originally based off and inspired by the project [cargo-dot](https://github.com/maxsnew/cargo-dot) by [Max New](https://github.com/maxsnew)
 
+## install 
+
+```
+just install
+```
 
 ## Demo
 
